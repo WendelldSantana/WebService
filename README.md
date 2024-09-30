@@ -1,7 +1,7 @@
 # 🖥️ Projeto WebService
 
 
-####  Integração, Comunicação entre o aplicativo e o cliente e permite reutilizar sistemas existentes numa distribuição e acrescentar novas funcionalidades sem precisar criar um software do zero.
+####  Integração, Comunicação entre o aplicativo e o cliente,permitindo reutilizar sistemas existentes numa distribuição e acrescentar novas funcionalidades sem precisar criar um software do zero.
 
 ## ⚙️Requisitos 
 
